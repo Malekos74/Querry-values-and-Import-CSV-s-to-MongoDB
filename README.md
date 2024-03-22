@@ -6,8 +6,8 @@ Python program that helps you to import a .csv file into a fresh or pre-existing
   - Mongo Client connection string (Default: mongodb://localhost:27017)
   - Database name
   - Collection name
-  - csv file path
-  - number of rows to import (Default: All rows)
+  - Csv file path
+  - Number of rows to import (Default: All rows)
 ### Output
   - Edits/ Creates a database with the specified name, creates a collection with the specified name
     and imports the specified number of rows of the csv file
