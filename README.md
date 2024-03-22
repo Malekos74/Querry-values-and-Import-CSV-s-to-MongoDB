@@ -1,5 +1,5 @@
 # Querry values and Import CSV's to a MongoDB instance
-## Import CSV
+## 1.Import CSV
 ### Description:
 Python program that helps you to import a .csv file into a fresh or pre-existing Mongo DB
 ### Input
@@ -14,7 +14,7 @@ Python program that helps you to import a .csv file into a fresh or pre-existing
 ### Notes
   - If the program times out at any point, please check your inputs and try again.
 
-## Querry
+## 2.Querry
 ### Description:
 Python program that helps you to querry data from a specific MongoDB collection.
 ### Input:
